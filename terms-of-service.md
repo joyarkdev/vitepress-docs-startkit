@@ -1,44 +1,44 @@
-# 用户协议
+# Terms of Service
 
-最后更新日期：2026-05-07
+Last Updated: 2026-05-07
 
-欢迎使用我们的服务。请在使用前认真阅读本协议。您使用服务即表示同意本协议内容。
+Welcome to our services. Please read this agreement carefully before use. By using the service, you agree to this agreement.
 
-## 1. 协议适用范围
+## 1. Scope of Agreement
 
-本协议适用于您与我们之间关于应用产品与相关服务的使用。
+This agreement applies to your use of the app product and related services between you and us.
 
-## 2. 用户账号
+## 2. User Account
 
-- 您应确保注册信息真实、准确、完整。
-- 您应妥善保管账号及密码，并对账号下行为负责。
-- 如发现异常登录或安全风险，请及时联系我们。
+- You should ensure that registration information is true, accurate, and complete.
+- You are responsible for safeguarding your account and password, and for activities under your account.
+- If you detect abnormal login or security risks, please contact us promptly.
 
-## 3. 使用规范
+## 3. Usage Rules
 
-您在使用服务时不得：
+When using the service, you must not:
 
-- 违反法律法规或公序良俗
-- 侵犯他人合法权益
-- 干扰、破坏服务的正常运行
-- 进行任何未经授权的抓取、攻击或逆向行为
+- Violate laws, regulations, or public order and morality
+- Infringe on the legitimate rights and interests of others
+- Interfere with or disrupt normal service operation
+- Conduct unauthorized scraping, attacks, or reverse engineering
 
-## 4. 知识产权
+## 4. Intellectual Property
 
-服务中涉及的内容、标识与技术资料受法律保护。未经许可，不得复制、传播或用于商业用途。
+Content, branding, and technical materials involved in the service are protected by law. Without permission, they may not be copied, distributed, or used for commercial purposes.
 
-## 5. 服务变更、中断与终止
+## 5. Service Changes, Suspension, and Termination
 
-在符合法律法规的前提下，我们可根据运营需要调整、暂停或终止部分服务，并尽可能提前通知。
+Subject to applicable laws and regulations, we may adjust, suspend, or terminate part of the services for operational needs and will provide notice when possible.
 
-## 6. 免责声明
+## 6. Disclaimer
 
-在法律允许范围内，因不可抗力、网络故障或第三方原因导致的服务中断，我们将尽力修复，但不承担超出法律规定范围的责任。
+To the extent permitted by law, in case of service interruption caused by force majeure, network failures, or third-party reasons, we will make reasonable efforts to recover services but do not assume liability beyond legal requirements.
 
-## 7. 协议变更
+## 7. Agreement Changes
 
-我们有权根据业务发展或法律要求更新本协议，更新后将在本页面发布。
+We may update this agreement based on business development or legal requirements. Updates will be posted on this page.
 
-## 8. 联系我们
+## 8. Contact Us
 
-如有疑问，请联系：support@example.com。
+If you have any questions, please contact: support@example.com.

@@ -2,18 +2,18 @@
 layout: home
 
 hero:
-  name: "App 文档中心"
-  text: "上架审核所需公开文档"
-  tagline: "包含关于我们、隐私政策与用户协议"
+  name: "App Documentation Center"
+  text: "Public documents required for app review"
+  tagline: "Includes About Us, Privacy Policy, and Terms of Service"
 
 features:
-  - title: 关于我们
-    details: 了解产品定位、运营团队与联系方式。
+  - title: About Us
+    details: Learn about the product profile, operations team, and contact details.
     link: /about
-  - title: 隐私政策
-    details: 说明我们如何收集、使用与保护用户数据。
+  - title: Privacy Policy
+    details: Understand how we collect, use, and protect user data.
     link: /privacy-policy
-  - title: 用户协议
-    details: 明确使用规则、用户责任与服务条款。
+  - title: Terms of Service
+    details: Review usage rules, user responsibilities, and service terms.
     link: /terms-of-service
 ---

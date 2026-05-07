@@ -1,16 +1,16 @@
-# 关于我们
+# About Us
 
-我们致力于为用户提供稳定、可靠、易用的应用服务体验。
+We are committed to providing users with a stable, reliable, and easy-to-use app service experience.
 
-## 公司与产品
+## Company and Product
 
-- 产品名称：App 文档中心示例应用
-- 服务目标：提供信息展示、业务支持与用户服务能力
-- 支持平台：iOS、Android
+- Product Name: App Documentation Center Sample App
+- Service Goal: Provide information display, business support, and user service capabilities
+- Supported Platforms: iOS, Android
 
-## 联系方式
+## Contact
 
-如需联系或反馈问题，请通过以下方式：
+If you would like to contact us or send feedback, please use the following:
 
-- 邮箱：support@example.com
-- 工作时间：周一至周五 10:00-18:00（UTC+8）
+- Email: support@example.com
+- Business Hours: Monday to Friday, 10:00-18:00 (UTC+8)

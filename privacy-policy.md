@@ -1,48 +1,48 @@
-# 隐私政策
+# Privacy Policy
 
-最后更新日期：2026-05-07
+Last Updated: 2026-05-07
 
-我们重视并保护用户个人信息。本隐私政策用于说明我们如何收集、使用、存储和保护您的信息。
+We value and protect users' personal information. This Privacy Policy explains how we collect, use, store, and protect your information.
 
-## 1. 我们收集的信息
+## 1. Information We Collect
 
-我们可能会在提供服务时收集以下信息：
+We may collect the following information when providing services:
 
-- 账户信息（如邮箱、昵称）
-- 设备与日志信息（如设备型号、系统版本、IP、崩溃日志）
-- 服务使用信息（如访问时间、功能使用记录）
+- Account information (such as email and nickname)
+- Device and log information (such as device model, OS version, IP, and crash logs)
+- Service usage information (such as access time and feature usage records)
 
-## 2. 信息使用目的
+## 2. Purpose of Information Use
 
-我们收集信息主要用于：
+We collect information primarily to:
 
-- 提供、维护与优化服务
-- 保障账号与服务安全
-- 处理用户咨询与客服请求
-- 满足法律法规要求
+- Provide, maintain, and optimize our services
+- Protect account and service security
+- Handle user inquiries and customer support requests
+- Comply with legal and regulatory requirements
 
-## 3. 信息共享与披露
+## 3. Information Sharing and Disclosure
 
-除以下情形外，我们不会向第三方出售您的个人信息：
+Except in the following situations, we do not sell your personal information to third parties:
 
-- 获得您的明确授权
-- 履行法律法规要求或有权机关要求
-- 为实现核心服务所必需，与受约束的合作方共享最小必要信息
+- With your explicit authorization
+- To comply with legal requirements or lawful requests from authorities
+- When necessary for core service delivery, with constrained partners on a minimum-necessary basis
 
-## 4. 信息存储与保护
+## 4. Data Storage and Protection
 
-我们采用合理的安全措施保护您的信息，防止未经授权访问、披露或篡改。
+We adopt reasonable security measures to protect your information from unauthorized access, disclosure, or modification.
 
-## 5. 您的权利
+## 5. Your Rights
 
-您有权访问、更正、删除您的个人信息，并可申请注销账号。
+You have the right to access, correct, or delete your personal information, and request account deletion.
 
-如需行使相关权利，请发送邮件至：support@example.com。
+To exercise these rights, please email: support@example.com.
 
-## 6. 政策更新
+## 6. Policy Updates
 
-我们可能根据业务调整或法律变化更新本政策。更新后将发布在本页面。
+We may update this policy based on business adjustments or legal changes. Updates will be posted on this page.
 
-## 7. 联系我们
+## 7. Contact Us
 
-如对本隐私政策有疑问，请联系：support@example.com。
+If you have any questions about this Privacy Policy, please contact: support@example.com.
